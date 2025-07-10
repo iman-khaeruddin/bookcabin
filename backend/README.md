@@ -29,8 +29,8 @@ This backend service allows airline crew to generate 3 random seat vouchers per 
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-org/voucher-backend.git
-cd voucher-backend
+git clone https://github.com/iman-khaeruddin/bookcabin.git
+cd backend
 ```
 
 ### 2. Build & Start with Docker
