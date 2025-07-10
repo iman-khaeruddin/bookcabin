@@ -33,7 +33,13 @@ git clone https://github.com/iman-khaeruddin/bookcabin.git
 cd backend
 ```
 
-### 2. Build & Start with Docker
+### 2. Build Dependencies
+
+```bash
+go mod tidy
+```
+
+### 3. Build & Start with Docker
 
 ```bash
 docker-compose up --build
